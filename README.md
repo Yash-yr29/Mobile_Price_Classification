@@ -86,6 +86,9 @@ Gradient Boosting       0.90	  	    0.98
 
 9. FUTURE SCOPE 
  - This just a basic Ml project .
- -To understand the concept of classification 
+ -To understand the concept of classification
+
+10. URL :
+    mobile-price-category-prediction.streamlit.app
 
 

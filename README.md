@@ -89,8 +89,3 @@ Gradient Boosting       0.90	  	    0.98
  -To understand the concept of classification 
 
 
-
-
-
-# Mobile_Price_Classification
-# Mobile_Price_Classification
